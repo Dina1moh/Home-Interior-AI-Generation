@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+huggingface_hub
+diffusers
+bitsandbytes
+accelerate
+peft
+Pillow
+matplotlib
+kaggle
+gradio
